@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 title: BeyondChatGPT Demo
 emoji: 📉
@@ -193,6 +194,8 @@ Who else is diving into the world of AI? Let's connect! 🌐💡
 =======
 =======
 >>>>>>> d3ec945 (Initial commit)
+=======
+>>>>>>> f76d2fa (Initial commit)
 # 🧑‍💻 What is [AI Engineering](https://maven.com/aimakerspace/ai-eng-bootcamp)?
 
 AI Engineering refers to the industry-relevant skills that data science and engineering teams need to successfully **build, deploy, operate, and improve Large Language Model (LLM) applications in production environments**.  
@@ -261,4 +264,11 @@ Here are the things I need to accomplish
 
 All Done
 >>>>>>> 2fc0375 (my first commit (#1))
+<<<<<<< HEAD
 >>>>>>> e98f560 (my first commit (#1))
+=======
+=======
+# Beyond-ChatGPT
+Chainlit App using Python streaming for Level 0 MLOps
+>>>>>>> 1f87be8 (Initial commit)
+>>>>>>> f76d2fa (Initial commit)

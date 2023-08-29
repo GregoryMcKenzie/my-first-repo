@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -166,10 +167,14 @@ wandb/
 __pycache__/
 >>>>>>> d41b97d (Releasing Week 2 Day 1 Assignment)
 =======
+=======
+>>>>>>> f76d2fa (Initial commit)
 wandb/
 .env
 __pycache__/
 =======
+=======
+>>>>>>> 1f87be8 (Initial commit)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -330,5 +335,11 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+<<<<<<< HEAD
 >>>>>>> 84a109b (Initial commit)
+<<<<<<< HEAD
 >>>>>>> d3ec945 (Initial commit)
+=======
+=======
+>>>>>>> 1f87be8 (Initial commit)
+>>>>>>> f76d2fa (Initial commit)
