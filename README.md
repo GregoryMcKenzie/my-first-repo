@@ -270,6 +270,7 @@ All Done
 =======
 # Beyond-ChatGPT
 <<<<<<< HEAD
+<<<<<<< HEAD
 Chainlit App using Python streaming for Level 0 MLOps
 <<<<<<< HEAD
 >>>>>>> 1f87be8 (Initial commit)
@@ -348,4 +349,10 @@ You've successfully created an LLM application with Chainlit, containerized it w
 =======
 Please refer to the [LLMOps Dev Environment](https://github.com/AI-Maker-Space/LLMOps-Dev-101/)https://github.com/AI-Maker-Space/LLMOps-Dev-101/ for instructions.
 >>>>>>> 7b8984d (Update README.md)
+<<<<<<< HEAD
 >>>>>>> 9fe3994 (Update README.md)
+=======
+=======
+Please refer to the [LLMOps Dev Environment](https://github.com/AI-Maker-Space/LLMOps-Dev-101/) for instructions.
+>>>>>>> 2902395 (Update README.md)
+>>>>>>> 18c52ae (Update README.md)
