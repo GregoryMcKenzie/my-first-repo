@@ -3,7 +3,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 4e56be7 (Update README.md)
 <<<<<<< HEAD
 # 🧑‍💻 What is [AI Engineering](https://maven.com/aimakerspace/ai-eng-bootcamp)?
 
@@ -169,6 +172,9 @@ colorTo: yellow
 sdk: docker
 pinned: false
 ---
+=======
+
+>>>>>>> f1ab659 (Update README.md)
 
 >>>>>>> cabe14c (Update README.md)
 >>>>>>> d460467 (Update README.md)
@@ -180,10 +186,20 @@ pinned: false
 
 ## <h1 align="center" id="heading">:wave: Welcome to Beyond ChatGPT!!</h1>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2cec8e7 (Update README.md)
+=======
+>>>>>>> 4e56be7 (Update README.md)
 For a step-by-step YouTube video walkthrough, watch this! [Deploying Chainlit app on Hugging Face](https://www.youtube.com/live/pRbbZcL0NMI?si=NAYhMZ_suAY84f06&t=2119)
 
 ![Beyond ChatGPT: Build Your First LLM Application](https://github.com/AI-Maker-Space/Beyond-ChatGPT/assets/48775140/cb7a74b8-28af-4d12-a008-8f5a51d47b4c)
 
+<<<<<<< HEAD
+=======
+>>>>>>> f1ab659 (Update README.md)
+>>>>>>> 4e56be7 (Update README.md)
 ## 🤖 Your First LLM App
 
 > If you need an introduction to `git`, or information on how to set up API keys for the tools we'll be using in this repository - check out our [Interactive Dev Environment for LLM Development](https://github.com/AI-Maker-Space/Interactive-Dev-Environment-for-LLM-Development/tree/main) which has everything you'd need to get started in this repository!
