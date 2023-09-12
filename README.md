@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 title: BeyondChatGPT Demo
 emoji: 📉
@@ -199,6 +200,8 @@ Who else is diving into the world of AI? Let's connect! 🌐💡
 >>>>>>> f76d2fa (Initial commit)
 =======
 >>>>>>> a21a9d7 (Update README.md)
+=======
+>>>>>>> cda88b7 (Update README.md)
 # 🧑‍💻 What is [AI Engineering](https://maven.com/aimakerspace/ai-eng-bootcamp)?
 
 AI Engineering refers to the industry-relevant skills that data science and engineering teams need to successfully **build, deploy, operate, and improve Large Language Model (LLM) applications in production environments**.  
@@ -339,6 +342,16 @@ Deploy to Huggingface Spaces
 Create a new Huggingface Space
 
 =======
+=======
+<p align = "center" draggable=”false” ><img src="https://github.com/AI-Maker-Space/LLM-Dev-101/assets/37101144/d1343317-fa2f-41e1-8af1-1dbb18399719" 
+     width="200px"
+     height="auto"/>
+</p>
+
+
+## <h1 align="center" id="heading">:wave: Welcome to Beyond ChatGPT!!</h1>
+
+>>>>>>> 2cec8e7 (Update README.md)
 ## 🤖 Your First LLM App
 
 In this repository, we'll walk you through the steps to create a Large Language Model (LLM) application using Chainlit, then containerize it using Docker, and finally deploy it on Huggingface Spaces.
