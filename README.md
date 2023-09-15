@@ -4,9 +4,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 4e56be7 (Update README.md)
+=======
+>>>>>>> f4d6080 (Update README.md)
 <<<<<<< HEAD
 # 🧑‍💻 What is [AI Engineering](https://maven.com/aimakerspace/ai-eng-bootcamp)?
 
@@ -96,6 +99,16 @@ A GitHub account
 Docker installed on your local machine
 A Huggingface Spaces account
 
+=======
+---
+title: BeyondChatGPT Demo
+emoji: 📉
+colorFrom: pink
+colorTo: yellow
+sdk: docker
+pinned: false
+---
+>>>>>>> 5804ba6 (Update README.md)
 
 ### Building our App
 Clone [this](https://github.com/AI-Maker-Space/Beyond-ChatGPT/tree/main) repo.
