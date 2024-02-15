@@ -5,11 +5,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 4e56be7 (Update README.md)
 =======
 >>>>>>> f4d6080 (Update README.md)
+=======
+>>>>>>> 2b4556c (initial commit)
 <<<<<<< HEAD
 # 🧑‍💻 What is [AI Engineering](https://maven.com/aimakerspace/ai-eng-bootcamp)?
 
@@ -627,6 +630,7 @@ Great! Time to ship!
 2. Setup your space as shown below:
    
 >>>>>>> 4689b8a (Update README.md)
+<<<<<<< HEAD
 - Owner: Your username
 - Space Name: `llm-app`
 - License: `Openrail`
@@ -710,3 +714,18 @@ Please refer to the [LLMOps Dev Environment](https://github.com/AI-Maker-Space/L
 ### That's it for now!  And so it begins.... :)
 >>>>>>> 4689b8a (Update README.md)
 >>>>>>> a21a9d7 (Update README.md)
+=======
+=======
+---
+title: FirstLLMApplication
+emoji: 📚
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+pinned: false
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> 38def0b (initial commit)
+>>>>>>> 2b4556c (initial commit)
