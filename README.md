@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 4e56be7 (Update README.md)
@@ -13,6 +14,8 @@
 >>>>>>> f4d6080 (Update README.md)
 =======
 >>>>>>> 2b4556c (initial commit)
+=======
+>>>>>>> 343f74e (Fixing README.md)
 <<<<<<< HEAD
 # 🧑‍💻 What is [AI Engineering](https://maven.com/aimakerspace/ai-eng-bootcamp)?
 
@@ -103,6 +106,8 @@ Docker installed on your local machine
 A Huggingface Spaces account
 
 =======
+=======
+>>>>>>> 04b63d9 (Fixing README.md)
 ---
 title: BeyondChatGPT Demo
 emoji: 📉
@@ -384,6 +389,7 @@ Who else is diving into the world of AI? Let's connect! 🌐💡
 <p></p>
 
 ### That's it for now!  And so it begins.... :)
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> d3ec945 (Initial commit)
@@ -629,6 +635,9 @@ Great! Time to ship!
 
 2. Setup your space as shown below:
    
+=======
+<<<<<<< HEAD
+>>>>>>> 343f74e (Fixing README.md)
 >>>>>>> 4689b8a (Update README.md)
 <<<<<<< HEAD
 - Owner: Your username
@@ -728,4 +737,9 @@ license: mit
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 >>>>>>> 38def0b (initial commit)
+<<<<<<< HEAD
 >>>>>>> 2b4556c (initial commit)
+=======
+=======
+>>>>>>> 04b63d9 (Fixing README.md)
+>>>>>>> 343f74e (Fixing README.md)
