@@ -121,6 +121,7 @@ colorFrom: pink
 colorTo: yellow
 sdk: docker
 pinned: false
+app_port: 7860
 ---
 >>>>>>> 5804ba6 (Update README.md)
 
