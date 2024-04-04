@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 4e56be7 (Update README.md)
@@ -16,6 +17,8 @@
 >>>>>>> 2b4556c (initial commit)
 =======
 >>>>>>> 343f74e (Fixing README.md)
+=======
+>>>>>>> 3a5406b (initial commit)
 <<<<<<< HEAD
 # 🧑‍💻 What is [AI Engineering](https://maven.com/aimakerspace/ai-eng-bootcamp)?
 
@@ -730,16 +733,29 @@ title: FirstLLMApplication
 emoji: 📚
 colorFrom: indigo
 colorTo: purple
+=======
+---
+title: BeyondChatGPT Demo V1
+emoji: 🦀
+colorFrom: red
+colorTo: pink
+>>>>>>> e22e616 (initial commit)
 sdk: docker
 pinned: false
 license: mit
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+<<<<<<< HEAD
 >>>>>>> 38def0b (initial commit)
 <<<<<<< HEAD
 >>>>>>> 2b4556c (initial commit)
 =======
 =======
 >>>>>>> 04b63d9 (Fixing README.md)
+<<<<<<< HEAD
 >>>>>>> 343f74e (Fixing README.md)
+=======
+=======
+>>>>>>> e22e616 (initial commit)
+>>>>>>> 3a5406b (initial commit)
