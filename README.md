@@ -244,6 +244,21 @@ Happy coding! 🚀🚀🚀
 =======
 =======
 # my-first-repo
+<<<<<<< HEAD
 My Awesome Description
 >>>>>>> 84a109b (Initial commit)
+<<<<<<< HEAD
 >>>>>>> d3ec945 (Initial commit)
+=======
+=======
+
+## my task
+
+Here are the things I need to accomplish
+1. Get my machine setup
+1. Get all my access keys
+1. Write some code
+
+All Done
+>>>>>>> 2fc0375 (my first commit (#1))
+>>>>>>> e98f560 (my first commit (#1))
